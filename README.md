@@ -12,4 +12,4 @@ Import both files into your postman setup and you should be able to power on and
 At the moment you need to run the "login" call before running any other API call. My plan is to learn enough that each API call will test for authentication and call the 'login' API call if login fails.
 
 Any feedback is welcome as I'm new to Github, postman and Python.
-mjpgannon@aol.com
+michaelgannon1066@gmail.com
